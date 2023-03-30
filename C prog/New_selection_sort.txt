@@ -1,0 +1,6 @@
+100
+sorted
+
+ time taken is 0.002000 100
+ time taken is 0.002000 100
+ time taken is 0.001000 
